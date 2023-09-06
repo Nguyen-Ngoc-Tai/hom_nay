@@ -30,6 +30,6 @@ public class baith3 {
 		System.out.println("Tuoi chinh xac : "+ diff.getYears()+ "tuoi" + diff.getMonths() + "thang" + diff.getDays() + "ngay");
 		System.out.println("Thoi gian di lam la : " + diff.getYears()+ "nam" + diff.getMonths() + "thang" + diff.getDays() + "ngay");
 		//tinh ngay nghi huu
-
+        System.out.print("Cai nay la sua de test lenh git diff");
 	}
 }
